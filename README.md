@@ -8,7 +8,7 @@ In Chrome, go to chrome://settings/searchEngines. Under "Site Search", click "Ad
 
 * Name: Better Search
 * Shortcut: s
-* URL: file://<dir_of_checked_out_repository>/index.html?q=%s
+* URL: `file://<dir_of_checked_out_repository>/index.html?q=%s`
 
 Save! Now, set up your routes in `routes.js`. Use `%s` substitutions.
 
